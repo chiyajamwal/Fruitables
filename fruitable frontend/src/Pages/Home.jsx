@@ -13,10 +13,6 @@ import BestSeller from "../Components/BestSeller";
 import Fact from "../Components/Fact";
 import Tastimonial from "../Components/Tastimonial";
 import BackToTop from "../Components/BackToTop";
-
-
-
-
 function Home() {
   return (
     <>
@@ -32,6 +28,7 @@ function Home() {
       <Fact/>
       <Tastimonial/>
       <BackToTop/>
+      {/* <h1>Home</h1> */}
       <Footer />
     </>
   );
