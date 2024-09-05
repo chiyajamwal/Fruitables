@@ -40,7 +40,7 @@ function Hero() {
                       alt="First slide"
                     />
                     <a href="#" className="btn px-4 py-2 text-white rounded">
-                      Fruites
+                      Fruits
                     </a>
                   </div>
                   <div className="carousel-item rounded">
@@ -50,7 +50,7 @@ function Hero() {
                       alt="Second slide"
                     />
                     <a href="#" className="btn px-4 py-2 text-white rounded">
-                      Vesitables
+                      Vegetables
                     </a>
                   </div>
                 </div>

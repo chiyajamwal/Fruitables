@@ -31,13 +31,10 @@ function SingleProduct() {
                     <i className="fa fa-star" />
                   </div>
                   <p className="mb-4">
-                    The generated Lorem Ipsum is therefore always free from
-                    repetition injected humour, or non-characteristic words etc.
+                  Crisp, vibrant, and packed with essential nutrients. Each floret is fresh and tender, offering a mild, slightly earthy flavor that enhances a variety of dishes.
                   </p>
                   <p className="mb-4">
-                    Susp endisse ultricies nisi vel quam suscipit. Sabertooth
-                    peacock flounder; chain pickerel hatchetfish, pencilfish
-                    snailfish
+                  Whether steamed, roasted, or added to salads and stir-fries, our broccoli provides a nutritious and delicious boost to your meals.
                   </p>
                   <div
                     className="input-group quantity mb-5"
@@ -104,15 +101,10 @@ function SingleProduct() {
                       aria-labelledby="nav-about-tab"
                     >
                       <p>
-                        The generated Lorem Ipsum is therefore always free from
-                        repetition injected humour, or non-characteristic words
-                        etc. Susp endisse ultricies nisi vel quam suscipit{" "}
+                      Fresh and nutrient-rich, featuring bright green florets and a crisp texture. With its mild, slightly peppery flavor, it’s perfect for steaming, roasting, or incorporating into your favorite recipes. {" "}
                       </p>
                       <p>
-                        Sabertooth peacock flounder; chain pickerel hatchetfish,
-                        pencilfish snailfish filefish Antarctic icefish goldeye
-                        aholehole trumpetfish pilot fish airbreathing catfish,
-                        electric ray sweeper.
+                      Enjoy its health benefits and delicious taste, adding a crunchy, vibrant touch to any meal.
                       </p>
                       <div className="px-2">
                         <div className="row g-4">
@@ -189,10 +181,7 @@ function SingleProduct() {
                             </div>
                           </div>
                           <p>
-                            The generated Lorem Ipsum is therefore always free
-                            from repetition injected humour, or
-                            non-characteristic words etc. Susp endisse ultricies
-                            nisi vel quam suscipit{" "}
+                          I love shopping at this store! The freshness of the produce is unmatched, and the quality of the fruits and vegetables always exceeds my expectations.{" "}
                           </p>
                         </div>
                       </div>
@@ -205,7 +194,7 @@ function SingleProduct() {
                         />
                         <div className="">
                           <p className="mb-2" style={{ fontSize: 14 }}>
-                            April 12, 2024
+                            July 22, 2024
                           </p>
                           <div className="d-flex justify-content-between">
                             <h5>Sam Peters</h5>
@@ -218,10 +207,7 @@ function SingleProduct() {
                             </div>
                           </div>
                           <p className="text-dark">
-                            The generated Lorem Ipsum is therefore always free
-                            from repetition injected humour, or
-                            non-characteristic words etc. Susp endisse ultricies
-                            nisi vel quam suscipit{" "}
+                          The customer service is fantastic—always friendly and helpful. I highly recommend this store for anyone looking for top-quality, organic produce!"{" "}
                           </p>
                         </div>
                       </div>
@@ -340,7 +326,7 @@ function SingleProduct() {
                         <div className="d-flex justify-content-between fruite-name">
                           <a href="#">
                             <i className="fas fa-apple-alt me-2" />
-                            Strawbery
+                            Strawberry
                           </a>
                           <span>(2)</span>
                         </div>
@@ -590,8 +576,7 @@ function SingleProduct() {
                 <div className="p-4 pb-0 rounded-bottom">
                   <h4>Parsely</h4>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                    do eiusmod te incididunt
+                  Our parsley is vibrant and fragrant, with a fresh, slightly peppery taste that enhances a wide range of dishes. Its crisp, green leaves are perfect for adding a burst of flavor to salads, soups, and sauces or as a garnish. Enjoy the rich aroma and health benefits of our premium parsley, carefully harvested for optimal freshness.
                   </p>
                   <div className="d-flex justify-content-between flex-lg-wrap">
                     <p className="text-dark fs-5 fw-bold">$4.99 / kg</p>
@@ -622,8 +607,7 @@ function SingleProduct() {
                 <div className="p-4 pb-0 rounded-bottom">
                   <h4>Parsely</h4>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                    do eiusmod te incididunt
+                  Our parsley is vibrant and fragrant, with a fresh, slightly peppery taste that enhances a wide range of dishes. Its crisp, green leaves are perfect for adding a burst of flavor to salads, soups, and sauces or as a garnish. Enjoy the rich aroma and health benefits of our premium parsley, carefully harvested for optimal freshness.
                   </p>
                   <div className="d-flex justify-content-between flex-lg-wrap">
                     <p className="text-dark fs-5 fw-bold">$4.99 / kg</p>
@@ -684,10 +668,9 @@ function SingleProduct() {
                   Vegetable
                 </div>
                 <div className="p-4 pb-0 rounded-bottom">
-                  <h4>Bell Papper</h4>
+                  <h4>Bell Pepper</h4>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                    do eiusmod te incididunt
+                  Sweet, vibrant flavor that adds a colorful crunch to any dish. Available in a range of bright colors, including red, yellow, and green, they are perfect for salads, stir-fries, and grilling. Enjoy their fresh taste and versatility in your cooking.
                   </p>
                   <div className="d-flex justify-content-between flex-lg-wrap">
                     <p className="text-dark fs-5 fw-bold">$7.99 / kg</p>

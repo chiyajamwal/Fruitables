@@ -13,8 +13,7 @@ function BannerSection() {
                   in Our Store
                 </p>
                 <p className="mb-4 text-dark">
-                  The generated Lorem Ipsum is therefore always free from
-                  repetition injected humour, or non-characteristic words etc.
+                offers a variety of fresh, organic fruits, handpicked to ensure quality and taste. Grown without synthetic pesticides or fertilizers, our fruits are naturally rich in flavor and nutrients, perfect for a healthy lifestyle. Enjoy the freshest produce directly from farm to table.
                 </p>
                 <a
                   href="#"

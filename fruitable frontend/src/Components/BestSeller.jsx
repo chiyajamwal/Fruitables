@@ -40,8 +40,7 @@ function BestSeller() {
           <div className="text-center mx-auto mb-5" style={{ maxWidth: 700 }}>
             <h1 className="display-4">Bestseller Products</h1>
             <p>
-              Latin words, combined with a handful of model sentence structures,
-              to generate Lorem Ipsum which looks reasonable.
+            Our bestseller products include a selection of our most loved and in-demand fruits, known for their exceptional freshness, taste, and quality. 
             </p>
           </div>
           <div className="row g-4">

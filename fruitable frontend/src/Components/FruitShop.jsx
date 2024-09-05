@@ -117,8 +117,7 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Grapes</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Plump, juicy, and bursting with natural sweetness. Perfect for snacking, adding to salads, or incorporating into your favorite recipes, these grapes are carefully selected for their vibrant flavor and freshness. Whether you prefer them as a refreshing treat on their own or as part of a healthy dish, our grapes are sure to satisfy.
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">
@@ -153,8 +152,7 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Raspberries</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Vibrant, tender, and packed with a burst of tangy-sweet flavor. Each berry is carefully harvested for peak freshness and exceptional taste, making them perfect for snacking, adding to desserts, or enhancing salads and smoothies. Enjoy their juicy goodness and natural sweetness in every bite.
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">
@@ -198,8 +196,7 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Oranges</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Juicy, sweet, and bursting with flavor. Each orange is carefully selected for its vibrant color and rich, refreshing taste. Perfect for a refreshing snack, a zesty addition to salads, or a nutritious morning juice, these oranges offer a delicious boost of vitamin C and natural sweetness.
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">
@@ -234,8 +231,7 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Apple</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Crisp, juicy, and full of natural sweetness. Each apple is handpicked for its perfect texture and rich flavor, making them ideal for snacking, baking, or adding to salads. Enjoy the satisfying crunch and delicious taste of our premium apples with every bite.
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">
@@ -278,8 +274,8 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Grapes</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Plump, juicy, and bursting with natural sweetness. Perfect for snacking, adding to salads, or incorporating into your favorite recipes, these grapes are carefully selected for their vibrant flavor and freshness. Whether you prefer them as a refreshing treat on their own or as part of a healthy dish, our grapes are sure to satisfy.
+
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">
@@ -314,8 +310,7 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Apricots</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Sun-kissed and delectably sweet, with a succulent, juicy texture. Perfect for snacking, baking, or adding a burst of flavor to salads and dishes, these apricots offer a delightful taste of summer in every bite. Enjoy their tender flesh and rich, fruity flavor, handpicked for optimal freshness.
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">
@@ -358,8 +353,7 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Banana</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Perfectly ripe, with a creamy texture and natural sweetness that make them a versatile and nutritious choice. Ideal for snacking, blending into smoothies, or baking into treats, these bananas are carefully selected for their rich flavor and freshness. Enjoy their delightful taste and convenient health benefits in every bite.
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">
@@ -394,8 +388,8 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Raspberries</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Vibrant, tender, and packed with a burst of tangy-sweet flavor. Each berry is carefully harvested for peak freshness and exceptional taste, making them perfect for snacking, adding to desserts, or enhancing salads and smoothies. Enjoy their juicy goodness and natural sweetness in every bite.
+
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">
@@ -430,8 +424,8 @@ function FruitShop() {
                           <div className="p-4 border border-secondary border-top-0 rounded-bottom">
                             <h4>Oranges</h4>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit sed do eiusmod te incididunt
+                            Juicy, sweet, and bursting with flavor. Each orange is carefully selected for its vibrant color and rich, refreshing taste. Perfect for a refreshing snack, a zesty addition to salads, or a nutritious morning juice, these oranges offer a delicious boost of vitamin C and natural sweetness.
+
                             </p>
                             <div className="d-flex justify-content-between flex-lg-wrap">
                               <p className="text-dark fs-5 fw-bold mb-0">

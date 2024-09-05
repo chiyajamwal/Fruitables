@@ -10,7 +10,7 @@ function CopyRight() {
               <span className="text-light">
                 <a href="#">
                   <i className="fas fa-copyright text-light me-2" />
-                  Your Site Name
+                  FreshFarm
                 </a>
                 , All right reserved.
               </span>

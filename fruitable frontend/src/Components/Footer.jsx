@@ -12,7 +12,7 @@ function Footer() {
             <div className="row g-4">
               <div className="col-lg-3">
                 <a href="#">
-                  <h1 className="text-primary mb-0">Fruitables</h1>
+                  <h1 className="text-primary mb-0">FreshFarm</h1>
                   <p className="text-secondary mb-0">Fresh products</p>
                 </a>
               </div>
@@ -67,9 +67,7 @@ function Footer() {
               <div className="footer-item">
                 <h4 className="text-light mb-3">Why People Like us!</h4>
                 <p className="mb-4">
-                  typesetting, remaining essentially unchanged. It was
-                  popularised in the 1960s with the like Aldus PageMaker
-                  including of Lorem Ipsum.
+                We prioritize quality, freshness, and customer satisfaction in everything we do. Our commitment to providing organic, sustainably sourced fruits ensures that every bite is both healthy and delicious. 
                 </p>
                 <a
                   href=""
@@ -128,9 +126,9 @@ function Footer() {
             <div className="col-lg-3 col-md-6">
               <div className="footer-item">
                 <h4 className="text-light mb-3">Contact</h4>
-                <p>Address: 1429 Netus Rd, NY 48247</p>
-                <p>Email: Example@gmail.com</p>
-                <p>Phone: +0123 4567 8910</p>
+                <p>Address: Sitapura, Jaipur, Rajasthan</p>
+                <p>Email: chiyajamwal275@gmail.com</p>
+                <p>Phone: 9103225456</p>
                 <p>Payment Accepted</p>
                 <img src="img/payment.png" className="img-fluid" alt="" />
               </div>

@@ -50,7 +50,7 @@ function Features() {
                   />
                   <div className="px-4 rounded-bottom">
                     <div className="service-content bg-secondary text-center p-4 rounded">
-                      <h5 className="text-white">Exotic Vegitable</h5>
+                      <h5 className="text-white">Exotic Vegetable</h5>
                       <h3 className="mb-0">Discount 30$</h3>
                     </div>
                   </div>

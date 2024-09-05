@@ -13,13 +13,13 @@ function Navbar() {
               <small className="me-3">
                 <i className="fas fa-map-marker-alt me-2 text-secondary" />{" "}
                 <a href="#" className="text-white">
-                  123 Street, New York
+                  Sitapura, Jaipur, Rajasthan
                 </a>
               </small>
               <small className="me-3">
                 <i className="fas fa-envelope me-2 text-secondary" />
                 <a href="#" className="text-white">
-                  Email@Example.com
+                  chiyajamwal275@gmail.com
                 </a>
               </small>
             </div>
@@ -39,7 +39,7 @@ function Navbar() {
         <div className="container px-0">
           <nav className="navbar navbar-light bg-white navbar-expand-xl">
             <a href="/" className="navbar-brand">
-              <h1 className="text-primary display-6">Fruitables</h1>
+              <h1 className="text-primary display-6">FarmFresh</h1>
             </a>
             <button
               className="navbar-toggler py-2 px-3"
@@ -76,7 +76,7 @@ function Navbar() {
                       Cart
                     </a>
                     <a href="/checkout" className="dropdown-item">
-                      Chackout
+                      Checkout
                     </a>
                     <a href="/testimonial" className="dropdown-item">
                       Testimonial
